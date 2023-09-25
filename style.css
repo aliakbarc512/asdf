@@ -1,0 +1,8 @@
+body{
+background-color:white;
+}
+
+.animals:hover{
+	 transition:1s;
+	transform:scale(1.1);
+}
